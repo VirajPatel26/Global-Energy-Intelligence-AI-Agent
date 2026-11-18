@@ -1,0 +1,225 @@
+AreaKey,Area ID,Area,ISO 3 code,Area type,Continent,Ember region,EU member,OECD member,G20 member,G7 member,ASEAN member
+1,1,ASEAN,,Region,,,False,False,False,False,False
+2,2,AU,,Region,,,False,False,False,False,False
+3,3,Afghanistan,AFG,Country or economy,Asia,Asia,False,False,False,False,False
+4,4,Africa,,Region,,,False,False,False,False,False
+5,5,Albania,ALB,Country or economy,Europe,Europe,False,False,False,False,False
+6,6,Algeria,DZA,Country or economy,Africa,Africa,False,False,False,False,False
+7,7,American Samoa,ASM,Country or economy,Oceania,Oceania,False,False,False,False,False
+8,8,Angola,AGO,Country or economy,Africa,Africa,False,False,False,False,False
+9,9,Antigua and Barbuda,ATG,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+10,10,Argentina,ARG,Country or economy,South America,Latin America and Caribbean,False,False,True,False,False
+11,11,Armenia,ARM,Country or economy,Asia,Asia,False,False,False,False,False
+12,12,Aruba,ABW,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+13,13,Asia,,Region,,,False,False,False,False,False
+14,14,Australia,AUS,Country or economy,Oceania,Oceania,False,True,True,False,False
+15,15,Austria,AUT,Country or economy,Europe,Europe,True,True,False,False,False
+16,16,Azerbaijan,AZE,Country or economy,Asia,Asia,False,False,False,False,False
+17,17,Bahamas,BHS,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+18,18,Bahrain,BHR,Country or economy,Asia,Middle East,False,False,False,False,False
+19,19,Bangladesh,BGD,Country or economy,Asia,Asia,False,False,False,False,False
+20,20,Barbados,BRB,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+21,21,Belarus,BLR,Country or economy,Europe,Europe,False,False,False,False,False
+22,22,Belgium,BEL,Country or economy,Europe,Europe,True,True,False,False,False
+23,23,Belize,BLZ,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+24,24,Benin,BEN,Country or economy,Africa,Africa,False,False,False,False,False
+25,25,Bhutan,BTN,Country or economy,Asia,Asia,False,False,False,False,False
+26,26,Bolivia,BOL,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+27,27,Bosnia Herzegovina,BIH,Country or economy,Europe,Europe,False,False,False,False,False
+28,28,Botswana,BWA,Country or economy,Africa,Africa,False,False,False,False,False
+29,29,Brazil,BRA,Country or economy,South America,Latin America and Caribbean,False,False,True,False,False
+30,30,Brunei Darussalam,BRN,Country or economy,Asia,Asia,False,False,False,False,True
+31,31,Bulgaria,BGR,Country or economy,Europe,Europe,True,False,False,False,False
+32,32,Burkina Faso,BFA,Country or economy,Africa,Africa,False,False,False,False,False
+33,33,Burundi,BDI,Country or economy,Africa,Africa,False,False,False,False,False
+34,34,Cabo Verde,CPV,Country or economy,Africa,Africa,False,False,False,False,False
+35,35,Cambodia,KHM,Country or economy,Asia,Asia,False,False,False,False,True
+36,36,Cameroon,CMR,Country or economy,Africa,Africa,False,False,False,False,False
+37,37,Canada,CAN,Country or economy,North America,North America,False,True,True,True,False
+38,38,Cayman Islands,CYM,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+39,39,Central African Republic,CAF,Country or economy,Africa,Africa,False,False,False,False,False
+40,40,Chad,TCD,Country or economy,Africa,Africa,False,False,False,False,False
+41,41,Chile,CHL,Country or economy,South America,Latin America and Caribbean,False,True,False,False,False
+42,42,China,CHN,Country or economy,Asia,Asia,False,False,True,False,False
+43,43,Colombia,COL,Country or economy,South America,Latin America and Caribbean,False,True,False,False,False
+44,44,Comoros,COM,Country or economy,Africa,Africa,False,False,False,False,False
+45,45,Congo,COG,Country or economy,Africa,Africa,False,False,False,False,False
+46,46,Congo (DRC),COD,Country or economy,Africa,Africa,False,False,False,False,False
+47,47,Cook Islands (the),COK,Country or economy,Oceania,Oceania,False,False,False,False,False
+48,48,Costa Rica,CRI,Country or economy,North America,Latin America and Caribbean,False,True,False,False,False
+49,49,Cote d'Ivoire,CIV,Country or economy,Africa,Africa,False,False,False,False,False
+50,50,Croatia,HRV,Country or economy,Europe,Europe,True,False,False,False,False
+51,51,Cuba,CUB,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+52,52,Cyprus,CYP,Country or economy,Europe,Europe,True,False,False,False,False
+53,53,Czechia,CZE,Country or economy,Europe,Europe,True,True,False,False,False
+54,54,Denmark,DNK,Country or economy,Europe,Europe,True,True,False,False,False
+55,55,Djibouti,DJI,Country or economy,Africa,Africa,False,False,False,False,False
+56,56,Dominica,DMA,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+57,57,Dominican Republic,DOM,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+58,58,EU,,Region,,,False,False,True,False,False
+59,59,Ecuador,ECU,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+60,60,Egypt,EGY,Country or economy,Africa,Africa,False,False,False,False,False
+61,61,El Salvador,SLV,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+62,62,Equatorial Guinea,GNQ,Country or economy,Africa,Africa,False,False,False,False,False
+63,63,Eritrea,ERI,Country or economy,Africa,Africa,False,False,False,False,False
+64,64,Estonia,EST,Country or economy,Europe,Europe,True,True,False,False,False
+65,65,Eswatini,SWZ,Country or economy,Africa,Africa,False,False,False,False,False
+66,66,Ethiopia,ETH,Country or economy,Africa,Africa,False,False,False,False,False
+67,67,Europe,,Region,,,False,False,False,False,False
+68,68,Falkland Islands (Malvinas),FLK,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+69,69,Faroe Islands,FRO,Country or economy,Europe,Europe,False,False,False,False,False
+70,70,Fiji,FJI,Country or economy,Oceania,Oceania,False,False,False,False,False
+71,71,Finland,FIN,Country or economy,Europe,Europe,True,True,False,False,False
+72,72,France,FRA,Country or economy,Europe,Europe,True,True,True,True,False
+73,73,French Guiana,GUF,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+74,74,French Polynesia,PYF,Country or economy,Oceania,Oceania,False,False,False,False,False
+75,75,G20,,Region,,,False,False,False,False,False
+76,76,G7,,Region,,,False,False,False,False,False
+77,77,Gabon,GAB,Country or economy,Africa,Africa,False,False,False,False,False
+78,78,Gambia,GMB,Country or economy,Africa,Africa,False,False,False,False,False
+79,79,Georgia,GEO,Country or economy,Asia,Asia,False,False,False,False,False
+80,80,Germany,DEU,Country or economy,Europe,Europe,True,True,True,True,False
+81,81,Ghana,GHA,Country or economy,Africa,Africa,False,False,False,False,False
+82,82,Greece,GRC,Country or economy,Europe,Europe,True,True,False,False,False
+83,83,Greenland,GRL,Country or economy,North America,North America,False,False,False,False,False
+84,84,Grenada,GRD,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+85,85,Guadeloupe,GLP,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+86,86,Guam,GUM,Country or economy,Oceania,Oceania,False,False,False,False,False
+87,87,Guatemala,GTM,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+88,88,Guinea,GIN,Country or economy,Africa,Africa,False,False,False,False,False
+89,89,Guinea-Bissau,GNB,Country or economy,Africa,Africa,False,False,False,False,False
+90,90,Guyana,GUY,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+91,91,Haiti,HTI,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+92,92,Honduras,HND,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+93,93,Hong Kong (SAR of China),HKG,Country or economy,Asia,Asia,False,False,False,False,False
+94,94,Hungary,HUN,Country or economy,Europe,Europe,True,True,False,False,False
+95,95,Iceland,ISL,Country or economy,Europe,Europe,False,True,False,False,False
+96,96,India,IND,Country or economy,Asia,Asia,False,False,True,False,False
+97,97,Indonesia,IDN,Country or economy,Asia,Asia,False,False,True,False,True
+98,98,Iran,IRN,Country or economy,Asia,Middle East,False,False,False,False,False
+99,99,Iraq,IRQ,Country or economy,Asia,Middle East,False,False,False,False,False
+100,100,Ireland,IRL,Country or economy,Europe,Europe,True,True,False,False,False
+101,101,Israel,ISR,Country or economy,Asia,Middle East,False,True,False,False,False
+102,102,Italy,ITA,Country or economy,Europe,Europe,True,True,True,True,False
+103,103,Jamaica,JAM,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+104,104,Japan,JPN,Country or economy,Asia,Asia,False,True,True,True,False
+105,105,Jordan,JOR,Country or economy,Asia,Middle East,False,False,False,False,False
+106,106,Kazakhstan,KAZ,Country or economy,Asia,Asia,False,False,False,False,False
+107,107,Kenya,KEN,Country or economy,Africa,Africa,False,False,False,False,False
+108,108,Kiribati,KIR,Country or economy,Oceania,Oceania,False,False,False,False,False
+109,109,Kosovo,XKX,Country or economy,Europe,Europe,False,False,False,False,False
+110,110,Kuwait,KWT,Country or economy,Asia,Middle East,False,False,False,False,False
+111,111,Kyrgyzstan,KGZ,Country or economy,Asia,Asia,False,False,False,False,False
+112,112,Lao PDR,LAO,Country or economy,Asia,Asia,False,False,False,False,True
+113,113,Latin America and Caribbean,,Region,,,False,False,False,False,False
+114,114,Latvia,LVA,Country or economy,Europe,Europe,True,True,False,False,False
+115,115,Lebanon,LBN,Country or economy,Asia,Middle East,False,False,False,False,False
+116,116,Lesotho,LSO,Country or economy,Africa,Africa,False,False,False,False,False
+117,117,Liberia,LBR,Country or economy,Africa,Africa,False,False,False,False,False
+118,118,Libya,LBY,Country or economy,Africa,Africa,False,False,False,False,False
+119,119,Lithuania,LTU,Country or economy,Europe,Europe,True,True,False,False,False
+120,120,Luxembourg,LUX,Country or economy,Europe,Europe,True,True,False,False,False
+121,121,MENA,,Region,,,False,False,False,False,False
+122,122,Macao (SAR of China),MAC,Country or economy,Asia,Asia,False,False,False,False,False
+123,123,Madagascar,MDG,Country or economy,Africa,Africa,False,False,False,False,False
+124,124,Malawi,MWI,Country or economy,Africa,Africa,False,False,False,False,False
+125,125,Malaysia,MYS,Country or economy,Asia,Asia,False,False,False,False,True
+126,126,Maldives,MDV,Country or economy,Asia,Asia,False,False,False,False,False
+127,127,Mali,MLI,Country or economy,Africa,Africa,False,False,False,False,False
+128,128,Malta,MLT,Country or economy,Europe,Europe,True,False,False,False,False
+129,129,Martinique,MTQ,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+130,130,Mauritania,MRT,Country or economy,Africa,Africa,False,False,False,False,False
+131,131,Mauritius,MUS,Country or economy,Africa,Africa,False,False,False,False,False
+132,132,Mexico,MEX,Country or economy,North America,Latin America and Caribbean,False,True,True,False,False
+133,133,Middle East,,Region,,,False,False,False,False,False
+134,134,Moldova,MDA,Country or economy,Europe,Europe,False,False,False,False,False
+135,135,Mongolia,MNG,Country or economy,Asia,Asia,False,False,False,False,False
+136,136,Montenegro,MNE,Country or economy,Europe,Europe,False,False,False,False,False
+137,137,Montserrat,MSR,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+138,138,Morocco,MAR,Country or economy,Africa,Africa,False,False,False,False,False
+139,139,Mozambique,MOZ,Country or economy,Africa,Africa,False,False,False,False,False
+140,140,Myanmar,MMR,Country or economy,Asia,Asia,False,False,False,False,True
+141,141,Namibia,NAM,Country or economy,Africa,Africa,False,False,False,False,False
+142,142,Nauru,NRU,Country or economy,Oceania,Oceania,False,False,False,False,False
+143,143,Nepal,NPL,Country or economy,Asia,Asia,False,False,False,False,False
+144,144,Netherlands,NLD,Country or economy,Europe,Europe,True,True,False,False,False
+145,145,New Caledonia,NCL,Country or economy,Oceania,Oceania,False,False,False,False,False
+146,146,New Zealand,NZL,Country or economy,Oceania,Oceania,False,True,False,False,False
+147,147,Nicaragua,NIC,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+148,148,Niger,NER,Country or economy,Africa,Africa,False,False,False,False,False
+149,149,Nigeria,NGA,Country or economy,Africa,Africa,False,False,False,False,False
+150,150,North America,,Region,,,False,False,False,False,False
+151,151,North Korea,PRK,Country or economy,Asia,Asia,False,False,False,False,False
+152,152,North Macedonia,MKD,Country or economy,Europe,Europe,False,False,False,False,False
+153,153,Norway,NOR,Country or economy,Europe,Europe,False,True,False,False,False
+154,154,OECD,,Region,,,False,False,False,False,False
+155,155,Oceania,,Region,,,False,False,False,False,False
+156,156,Oman,OMN,Country or economy,Asia,Middle East,False,False,False,False,False
+157,157,Pakistan,PAK,Country or economy,Asia,Asia,False,False,False,False,False
+158,158,Palestine (State of),PSE,Country or economy,Asia,Middle East,False,False,False,False,False
+159,159,Panama,PAN,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+160,160,Papua New Guinea,PNG,Country or economy,Oceania,Oceania,False,False,False,False,False
+161,161,Paraguay,PRY,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+162,162,Peru,PER,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+163,163,Poland,POL,Country or economy,Europe,Europe,True,True,False,False,False
+164,164,Portugal,PRT,Country or economy,Europe,Europe,True,True,False,False,False
+165,165,Puerto Rico,PRI,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+166,166,Qatar,QAT,Country or economy,Asia,Middle East,False,False,False,False,False
+167,167,Reunion,REU,Country or economy,Africa,Africa,False,False,False,False,False
+168,168,Romania,ROU,Country or economy,Europe,Europe,True,False,False,False,False
+169,169,Russia,RUS,Country or economy,Europe,Europe,False,False,True,False,False
+170,170,Rwanda,RWA,Country or economy,Africa,Africa,False,False,False,False,False
+171,171,Saint Kitts and Nevis,KNA,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+172,172,Saint Lucia,LCA,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+173,173,Saint Pierre and Miquelon,SPM,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+174,174,Saint Vincent and the Grenadines,VCT,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+175,175,Samoa,WSM,Country or economy,Oceania,Oceania,False,False,False,False,False
+176,176,Sao Tome and Principe,STP,Country or economy,Africa,Africa,False,False,False,False,False
+177,177,Saudi Arabia,SAU,Country or economy,Asia,Middle East,False,False,True,False,False
+178,178,Senegal,SEN,Country or economy,Africa,Africa,False,False,False,False,False
+179,179,Serbia,SRB,Country or economy,Europe,Europe,False,False,False,False,False
+180,180,Seychelles,SYC,Country or economy,Africa,Africa,False,False,False,False,False
+181,181,Sierra Leone,SLE,Country or economy,Africa,Africa,False,False,False,False,False
+182,182,Singapore,SGP,Country or economy,Asia,Asia,False,False,False,False,True
+183,183,Slovakia,SVK,Country or economy,Europe,Europe,True,True,False,False,False
+184,184,Slovenia,SVN,Country or economy,Europe,Europe,True,True,False,False,False
+185,185,Solomon Islands,SLB,Country or economy,Oceania,Oceania,False,False,False,False,False
+186,186,Somalia,SOM,Country or economy,Africa,Africa,False,False,False,False,False
+187,187,South Africa,ZAF,Country or economy,Africa,Africa,False,False,True,False,False
+188,188,South Korea,KOR,Country or economy,Asia,Asia,False,True,True,False,False
+189,189,South Sudan,SSD,Country or economy,Africa,Africa,False,False,False,False,False
+190,190,Spain,ESP,Country or economy,Europe,Europe,True,True,False,False,False
+191,191,Sri Lanka,LKA,Country or economy,Asia,Asia,False,False,False,False,False
+192,192,Sudan,SDN,Country or economy,Africa,Africa,False,False,False,False,False
+193,193,Suriname,SUR,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+194,194,Sweden,SWE,Country or economy,Europe,Europe,True,True,False,False,False
+195,195,Switzerland,CHE,Country or economy,Europe,Europe,False,True,False,False,False
+196,196,Syria,SYR,Country or economy,Asia,Middle East,False,False,False,False,False
+197,197,Taiwan (China),TWN,Country or economy,Asia,Asia,False,False,False,False,False
+198,198,Tajikistan,TJK,Country or economy,Asia,Asia,False,False,False,False,False
+199,199,Tanzania (the United Republic of),TZA,Country or economy,Africa,Africa,False,False,False,False,False
+200,200,Thailand,THA,Country or economy,Asia,Asia,False,False,False,False,True
+201,201,The Philippines,PHL,Country or economy,Asia,Asia,False,False,False,False,True
+202,202,Togo,TGO,Country or economy,Africa,Africa,False,False,False,False,False
+203,203,Tonga,TON,Country or economy,Oceania,Oceania,False,False,False,False,False
+204,204,Trinidad and Tobago,TTO,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+205,205,Tunisia,TUN,Country or economy,Africa,Africa,False,False,False,False,False
+206,206,Turkmenistan,TKM,Country or economy,Asia,Asia,False,False,False,False,False
+207,207,Turks and Caicos Islands,TCA,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+208,208,Türkiye,TUR,Country or economy,Asia,Europe,False,True,True,False,False
+209,209,Uganda,UGA,Country or economy,Africa,Africa,False,False,False,False,False
+210,210,Ukraine,UKR,Country or economy,Europe,Europe,False,False,False,False,False
+211,211,United Arab Emirates,ARE,Country or economy,Asia,Middle East,False,False,False,False,False
+212,212,United Kingdom,GBR,Country or economy,Europe,Europe,False,True,True,True,False
+213,213,United States,USA,Country or economy,North America,North America,False,True,True,True,False
+214,214,Uruguay,URY,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+215,215,Uzbekistan,UZB,Country or economy,Asia,Asia,False,False,False,False,False
+216,216,Vanuatu,VUT,Country or economy,Oceania,Oceania,False,False,False,False,False
+217,217,Venezuela,VEN,Country or economy,South America,Latin America and Caribbean,False,False,False,False,False
+218,218,Viet Nam,VNM,Country or economy,Asia,Asia,False,False,False,False,True
+219,219,Virgin Islands (British),VGB,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+220,220,Virgin Islands (U.S.),VIR,Country or economy,North America,Latin America and Caribbean,False,False,False,False,False
+221,221,World,,Region,,,False,False,False,False,False
+222,222,Yemen,YEM,Country or economy,Asia,Middle East,False,False,False,False,False
+223,223,Zambia,ZMB,Country or economy,Africa,Africa,False,False,False,False,False
+224,224,Zimbabwe,ZWE,Country or economy,Africa,Africa,False,False,False,False,False

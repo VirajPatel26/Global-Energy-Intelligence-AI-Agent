@@ -1,0 +1,11 @@
+SourceKey,Source ID,Electricity source
+1,1,Bioenergy
+2,2,Coal
+3,3,Gas
+4,4,Hydro
+5,5,Net imports
+6,6,Nuclear
+7,7,Other fossil
+8,8,Other renewables
+9,9,Solar
+10,10,Wind
